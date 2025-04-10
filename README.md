@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Pacheco
 
-<!--
-**pacheco365/pacheco365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou movido por **curiosidade, tecnologia e a vontade de criar coisas úteis**. Estudante de Engenharia de Software na FIAP, transformo minha curiosidade em projetos práticos com impacto real.
 
-Here are some ideas to get you started:
+Tenho interesse por tudo que envolve **tecnologia** — **automação, APIs, IA, dados, infraestrutura, integrações, sistemas web e mobile**. Não me limito ao desenvolvimento: quero estar no centro da inovação, construindo soluções tecnológicas de ponta a ponta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso:
+- **Linguagens:** Python, Java, C#, SQL  
+- **Frameworks & Ferramentas:** React, React Native, FastAPI, Flask, Docker, SAP  
+- **Outros:** Unreal Engine 5, Maya, Excel Avançado
+
+## 💼 Experiências
+- **BTG Pactual** – Automatização de processos internos com Python, React e FastAPI, integrando com SAP e bancos de dados.
+- **Henkel** – Apoio à equipe de vendas com relatórios, cotações e uso de SAP.
+- **Projeto IBM Smart Cities** – Desenvolvimento de uma solução preditiva de saúde com IA e dados climáticos.
+
+## 🌎 Idiomas
+- Português: Nativo  
+- Inglês: Avançado  
+- Espanhol: Intermediário  
+
+---
+
+📫 Vamos nos conectar?  
+[LinkedIn](https://www.linkedin.com/in/gabriel-pacheco-89715a282/) | gabriel.pacheco040505@gmail.com
