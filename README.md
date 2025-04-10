@@ -1,4 +1,4 @@
-#Gabriel Pacheco
+# Gabriel Pacheco
 
 Sou movido por **curiosidade, tecnologia e a vontade de criar coisas úteis**. Estudante de Engenharia de Software na FIAP, transformo minha curiosidade em projetos práticos com impacto real.
 
